@@ -165,7 +165,7 @@ app.services.productService = new screeninteraction.services.ProductService();
     var alcohol = 0;
     if(this.alcohol)
       alcohol = this.alcohol;
-    return alcohol*100;
+    return  parseFloat(alcohol*100).toFixed(1);
   }
 
   /**

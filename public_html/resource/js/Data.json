@@ -1,0 +1,1447 @@
+[{
+        "id": "1",
+        "article_id": "25053",
+        "product_number": "10001",
+        "name": "Braastad XO",
+        "name_2": "",
+        "start_date": "2000-08-07",
+        "country_id": "1",
+        "origin_id": "7986855",
+        "volume": 0.7,
+        "price": 442,
+        "price_per_liter": 631.43,
+        "alcohol": 0.4,
+        "apk": 0.63,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "1",
+                "name": "cognac"
+            }],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": {
+            "id": "7986855",
+            "name": "Cognac, Fine Champagne"
+        }
+    }, {
+        "id": "2",
+        "article_id": "190719",
+        "product_number": "1001",
+        "name": "Vanlig Vodka",
+        "name_2": "",
+        "start_date": "2006-04-01",
+        "country_id": "2",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 197,
+        "price_per_liter": 281.43,
+        "alcohol": 0.38,
+        "apk": 1.33,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "2",
+            "name": "Sverige"
+        },
+        "origin": null
+    }, {
+        "id": "3",
+        "article_id": "51029",
+        "product_number": "1001201",
+        "name": "Dworek Vodka",
+        "name_2": "",
+        "start_date": "2004-12-06",
+        "country_id": "3",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 192,
+        "price_per_liter": 274.29,
+        "alcohol": 0.38,
+        "apk": 1.37,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "3",
+            "name": "Polen"
+        },
+        "origin": null
+    }, {
+        "id": "4",
+        "article_id": "407506",
+        "product_number": "1001202",
+        "name": "Dworek Vodka",
+        "name_2": "",
+        "start_date": "2009-10-01",
+        "country_id": "3",
+        "origin_id": null,
+        "volume": 0.35,
+        "price": 102,
+        "price_per_liter": 291.43,
+        "alcohol": 0.38,
+        "apk": 1.29,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "3",
+            "name": "Polen"
+        },
+        "origin": null
+    }, {
+        "id": "8",
+        "article_id": "733236",
+        "product_number": "1005201",
+        "name": "Balcones True Blue",
+        "name_2": "",
+        "start_date": "2013-03-01",
+        "country_id": "4",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 899,
+        "price_per_liter": 1284.29,
+        "alcohol": 0.5,
+        "apk": 0.39,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [],
+        "country": {
+            "id": "4",
+            "name": "USA"
+        },
+        "origin": null
+    }, {
+        "id": "9",
+        "article_id": "733429",
+        "product_number": "1005401",
+        "name": "Linkwood",
+        "name_2": "the Octave",
+        "start_date": "2013-03-01",
+        "country_id": "5",
+        "origin_id": "4497315",
+        "volume": 0.7,
+        "price": 1159,
+        "price_per_liter": 1655.71,
+        "alcohol": 0.52,
+        "apk": 0.31,
+        "year": "1989",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "4497315",
+            "name": "Skottland, Highlands, Speyside"
+        }
+    }, {
+        "id": "13",
+        "article_id": "786534",
+        "product_number": "1009601",
+        "name": "Ballast Point",
+        "name_2": "Victory At Sea",
+        "start_date": "2013-09-02",
+        "country_id": "4",
+        "origin_id": null,
+        "volume": 0.65,
+        "price": 89.9,
+        "price_per_liter": 138.31,
+        "alcohol": 0.1,
+        "apk": 0.72,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "6",
+                "name": "beer"
+            }, {
+                "id": "8",
+                "name": "stout"
+            }],
+        "country": {
+            "id": "4",
+            "name": "USA"
+        },
+        "origin": null
+    }, {
+        "id": "14",
+        "article_id": "1",
+        "product_number": "101",
+        "name": "Renat",
+        "name_2": "",
+        "start_date": "1993-10-01",
+        "country_id": "10",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 205,
+        "price_per_liter": 292.86,
+        "alcohol": 0.38,
+        "apk": 1.28,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "10",
+            "name": "Internationellt m\u00e4rke"
+        },
+        "origin": null
+    }, {
+        "id": "16",
+        "article_id": "659534",
+        "product_number": "1010501",
+        "name": "Genuin 25",
+        "name_2": "",
+        "start_date": "2012-09-01",
+        "country_id": "2",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 149,
+        "price_per_liter": 212.86,
+        "alcohol": 0.25,
+        "apk": 1.18,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "2",
+            "name": "Sverige"
+        },
+        "origin": null
+    }, {
+        "id": "17",
+        "article_id": "746740",
+        "product_number": "1010601",
+        "name": "Old English Gin",
+        "name_2": "",
+        "start_date": "2013-05-02",
+        "country_id": "5",
+        "origin_id": "3764243",
+        "volume": 0.7,
+        "price": 399,
+        "price_per_liter": 570,
+        "alcohol": 0.44,
+        "apk": 0.77,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "10",
+                "name": "gin"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "3764243",
+            "name": "England"
+        }
+    }, {
+        "id": "18",
+        "article_id": "933065",
+        "product_number": "1010701",
+        "name": "Nonino Vendimia",
+        "name_2": "Riserva di Annata",
+        "start_date": "2015-04-24",
+        "country_id": "11",
+        "origin_id": "4331833",
+        "volume": 0.7,
+        "price": 419,
+        "price_per_liter": 598.57,
+        "alcohol": 0.41,
+        "apk": 0.69,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "11",
+            "name": "Italien"
+        },
+        "origin": {
+            "id": "4331833",
+            "name": "Skottland, Highlands, Speyside"
+        }
+    }, {
+        "id": "19",
+        "article_id": "751550",
+        "product_number": "1010802",
+        "name": "Vieux Marc",
+        "name_2": "Vignobles Brunier",
+        "start_date": "2013-06-01",
+        "country_id": "1",
+        "origin_id": null,
+        "volume": 0.5,
+        "price": 495,
+        "price_per_liter": 990,
+        "alcohol": 0.42,
+        "apk": 0.42,
+        "year": "2001",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": null
+    }, {
+        "id": "20",
+        "article_id": "751602",
+        "product_number": "1010806",
+        "name": "Vieux Marc",
+        "name_2": "Vignobles Brunier",
+        "start_date": "2013-06-01",
+        "country_id": "1",
+        "origin_id": null,
+        "volume": 1.75,
+        "price": 1650,
+        "price_per_liter": 942.86,
+        "alcohol": 0.42,
+        "apk": 0.45,
+        "year": "2001",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": null
+    }, {
+        "id": "22",
+        "article_id": "614078",
+        "product_number": "1011601",
+        "name": "Glenmorangie",
+        "name_2": "Pride",
+        "start_date": "2012-02-23",
+        "country_id": "5",
+        "origin_id": "7986861",
+        "volume": 1,
+        "price": 24500,
+        "price_per_liter": 24500,
+        "alcohol": 0.57,
+        "apk": 0.02,
+        "year": "1981",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "7986861",
+            "name": "Skottland, Highlands, Northern Highlands"
+        }
+    }, {
+        "id": "24",
+        "article_id": "907227",
+        "product_number": "1012001",
+        "name": "El Gobernador",
+        "name_2": "Pisco",
+        "start_date": "2015-02-06",
+        "country_id": "14",
+        "origin_id": "7986862",
+        "volume": 0.7,
+        "price": 299,
+        "price_per_liter": 427.14,
+        "alcohol": 0.4,
+        "apk": 0.94,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "11",
+                "name": "tequila"
+            }],
+        "country": {
+            "id": "14",
+            "name": "Chile"
+        },
+        "origin": {
+            "id": "7986862",
+            "name": "Limar\u00ed Valley"
+        }
+    }, {
+        "id": "25",
+        "article_id": "781275",
+        "product_number": "1012101",
+        "name": "El Jolgorio Madrecuixe",
+        "name_2": "Agave de Cortes",
+        "start_date": "2013-09-02",
+        "country_id": "12",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 1199,
+        "price_per_liter": 1712.86,
+        "alcohol": 0.47,
+        "apk": 0.27,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "11",
+                "name": "tequila"
+            }],
+        "country": {
+            "id": "12",
+            "name": "Mexiko"
+        },
+        "origin": null
+    }, {
+        "id": "26",
+        "article_id": "766612",
+        "product_number": "1012301",
+        "name": "The Maltman Glen Keith",
+        "name_2": "18 Years",
+        "start_date": "2013-08-01",
+        "country_id": "5",
+        "origin_id": "7986863",
+        "volume": 0.7,
+        "price": 869,
+        "price_per_liter": 1241.43,
+        "alcohol": 0.52,
+        "apk": 0.41,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "7986863",
+            "name": "Skottland, Highlands, Speyside"
+        }
+    }, {
+        "id": "27",
+        "article_id": "874805",
+        "product_number": "1012601",
+        "name": "Nikka Taketsuru",
+        "name_2": "Pure Malt",
+        "start_date": "2014-10-03",
+        "country_id": "19",
+        "origin_id": "2159963",
+        "volume": 0.7,
+        "price": 551,
+        "price_per_liter": 787.14,
+        "alcohol": 0.43,
+        "apk": 0.55,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "19",
+            "name": "Japan"
+        },
+        "origin": {
+            "id": "2159963",
+            "name": "Skottland, Lowlands, Western Lowlands"
+        }
+    }, {
+        "id": "28",
+        "article_id": "870644",
+        "product_number": "1012801",
+        "name": "Octomore",
+        "name_2": "06.1 Scottish Barley",
+        "start_date": "2014-10-03",
+        "country_id": "5",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 1399,
+        "price_per_liter": 1998.57,
+        "alcohol": 0.57,
+        "apk": 0.29,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "11",
+                "name": "tequila"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": null
+    }, {
+        "id": "29",
+        "article_id": "871188",
+        "product_number": "1013901",
+        "name": "Longmorn",
+        "name_2": "16 Years",
+        "start_date": "2014-10-03",
+        "country_id": "5",
+        "origin_id": "7986865",
+        "volume": 0.7,
+        "price": 1095,
+        "price_per_liter": 1564.29,
+        "alcohol": 0.49,
+        "apk": 0.31,
+        "year": "1997",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "7986865",
+            "name": "Skottland"
+        }
+    }, {
+        "id": "30",
+        "article_id": "634582",
+        "product_number": "1014002",
+        "name": "Braunstein",
+        "name_2": "Library Collection 11:1",
+        "start_date": "2012-03-01",
+        "country_id": "13",
+        "origin_id": null,
+        "volume": 0.5,
+        "price": 999,
+        "price_per_liter": 1998,
+        "alcohol": 0.46,
+        "apk": 0.23,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "13",
+            "name": "Danmark"
+        },
+        "origin": null
+    }, {
+        "id": "31",
+        "article_id": "781272",
+        "product_number": "1014101",
+        "name": "El Jolgorio Espad\u00edn",
+        "name_2": "Agave de Cortes",
+        "start_date": "2013-09-02",
+        "country_id": "12",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 886,
+        "price_per_liter": 1265.71,
+        "alcohol": 0.47,
+        "apk": 0.37,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "11",
+                "name": "tequila"
+            }],
+        "country": {
+            "id": "12",
+            "name": "Mexiko"
+        },
+        "origin": null
+    }, {
+        "id": "34",
+        "article_id": "872568",
+        "product_number": "1015101",
+        "name": "Caol Ila",
+        "name_2": "Distillers Edition",
+        "start_date": "2014-11-07",
+        "country_id": "5",
+        "origin_id": "7986867",
+        "volume": 0.7,
+        "price": 601,
+        "price_per_liter": 858.57,
+        "alcohol": 0.43,
+        "apk": 0.5,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "9",
+                "name": "grappa"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "7986867",
+            "name": "Skottland, Islay"
+        }
+    }, {
+        "id": "35",
+        "article_id": "872577",
+        "product_number": "1015301",
+        "name": "The Macallan",
+        "name_2": "Sienna",
+        "start_date": "2014-12-05",
+        "country_id": "5",
+        "origin_id": "7986868",
+        "volume": 0.7,
+        "price": 751,
+        "price_per_liter": 1072.86,
+        "alcohol": 0.43,
+        "apk": 0.4,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "7986868",
+            "name": "Skottland"
+        }
+    }, {
+        "id": "36",
+        "article_id": "633586",
+        "product_number": "1016101",
+        "name": "Benriach",
+        "name_2": "Liquid Sun 15 Years",
+        "start_date": "2012-03-01",
+        "country_id": "5",
+        "origin_id": "5216659",
+        "volume": 0.7,
+        "price": 799,
+        "price_per_liter": 1141.43,
+        "alcohol": 0.46,
+        "apk": 0.4,
+        "year": "1996",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "5216659",
+            "name": "Skottland, Highlands, Speyside"
+        }
+    }, {
+        "id": "37",
+        "article_id": "902188",
+        "product_number": "1016301",
+        "name": "Laphroaig",
+        "name_2": "12 Years",
+        "start_date": "2014-12-04",
+        "country_id": "5",
+        "origin_id": "5759691",
+        "volume": 0.7,
+        "price": 699,
+        "price_per_liter": 998.57,
+        "alcohol": 0.48,
+        "apk": 0.48,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "5759691",
+            "name": "Skottland, Islay"
+        }
+    }, {
+        "id": "38",
+        "article_id": "639258",
+        "product_number": "1016501",
+        "name": "Compass Box",
+        "name_2": "Hedonism",
+        "start_date": "2012-04-02",
+        "country_id": "5",
+        "origin_id": "7986871",
+        "volume": 0.7,
+        "price": 725,
+        "price_per_liter": 1035.71,
+        "alcohol": 0.43,
+        "apk": 0.42,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "7986871",
+            "name": "Skottland"
+        }
+    }, {
+        "id": "39",
+        "article_id": "639416",
+        "product_number": "1016601",
+        "name": "Eau-de-Vie de Prune",
+        "name_2": "",
+        "start_date": "2012-04-02",
+        "country_id": "1",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 549,
+        "price_per_liter": 784.29,
+        "alcohol": 0.42,
+        "apk": 0.54,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": null
+    }, {
+        "id": "40",
+        "article_id": "639451",
+        "product_number": "1016701",
+        "name": "Eau-de-Vie Poire William",
+        "name_2": "",
+        "start_date": "2012-04-02",
+        "country_id": "1",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 559,
+        "price_per_liter": 798.57,
+        "alcohol": 0.44,
+        "apk": 0.55,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": null
+    }, {
+        "id": "41",
+        "article_id": "645592",
+        "product_number": "1016801",
+        "name": "Eau-de-Vie Framboise",
+        "name_2": "",
+        "start_date": "2012-04-02",
+        "country_id": "1",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 599,
+        "price_per_liter": 855.71,
+        "alcohol": 0.45,
+        "apk": 0.53,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": null
+    }, {
+        "id": "42",
+        "article_id": "645598",
+        "product_number": "1016901",
+        "name": "Eau-de-Vie Marc D'Iroul\u00e9guy",
+        "name_2": "",
+        "start_date": "2012-04-02",
+        "country_id": "1",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 499,
+        "price_per_liter": 712.86,
+        "alcohol": 0.44,
+        "apk": 0.62,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "9",
+                "name": "grappa"
+            }],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": null
+    }, {
+        "id": "43",
+        "article_id": "644726",
+        "product_number": "1017301",
+        "name": "Good ol' Sailor",
+        "name_2": "Jungle",
+        "start_date": "2012-06-01",
+        "country_id": "2",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 229,
+        "price_per_liter": 327.14,
+        "alcohol": 0.38,
+        "apk": 1.15,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "2",
+            "name": "Sverige"
+        },
+        "origin": null
+    }, {
+        "id": "44",
+        "article_id": "647552",
+        "product_number": "1017801",
+        "name": "Uno En Mil",
+        "name_2": "Solera Gran Reserva",
+        "start_date": "2012-05-02",
+        "country_id": "15",
+        "origin_id": "4730054",
+        "volume": 0.7,
+        "price": 437,
+        "price_per_liter": 624.29,
+        "alcohol": 0.4,
+        "apk": 0.64,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "12",
+                "name": "brandy"
+            }],
+        "country": {
+            "id": "15",
+            "name": "Spanien"
+        },
+        "origin": {
+            "id": "4730054",
+            "name": "Jerez"
+        }
+    }, {
+        "id": "45",
+        "article_id": "959560",
+        "product_number": "1018401",
+        "name": "Armagnac de Montal",
+        "name_2": "",
+        "start_date": "2015-05-22",
+        "country_id": "1",
+        "origin_id": "7986872",
+        "volume": 0.7,
+        "price": 1818,
+        "price_per_liter": 2597.14,
+        "alcohol": 0.4,
+        "apk": 0.15,
+        "year": "1965",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": {
+            "id": "7986872",
+            "name": "Armagnac"
+        }
+    }, {
+        "id": "46",
+        "article_id": "548418",
+        "product_number": "1018702",
+        "name": "Braunstein 10:3",
+        "name_2": "",
+        "start_date": "2011-02-21",
+        "country_id": "13",
+        "origin_id": null,
+        "volume": 0.5,
+        "price": 999,
+        "price_per_liter": 1998,
+        "alcohol": 0.46,
+        "apk": 0.23,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "13",
+            "name": "Danmark"
+        },
+        "origin": null
+    }, {
+        "id": "48",
+        "article_id": "611828",
+        "product_number": "1019301",
+        "name": "Greenall's Berkeley Square",
+        "name_2": "",
+        "start_date": "2012-03-01",
+        "country_id": "5",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 499,
+        "price_per_liter": 712.86,
+        "alcohol": 0.4,
+        "apk": 0.56,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "10",
+                "name": "gin"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": null
+    }, {
+        "id": "49",
+        "article_id": "404133",
+        "product_number": "1019402",
+        "name": "Rommehed",
+        "name_2": "Julakvavit",
+        "start_date": "2009-11-16",
+        "country_id": "2",
+        "origin_id": null,
+        "volume": 0.5,
+        "price": 192,
+        "price_per_liter": 384,
+        "alcohol": 0.38,
+        "apk": 0.98,
+        "year": "0",
+        "ecological": true,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [],
+        "country": {
+            "id": "2",
+            "name": "Sverige"
+        },
+        "origin": null
+    }, {
+        "id": "50",
+        "article_id": "673516",
+        "product_number": "1019701",
+        "name": "Danica Gin",
+        "name_2": "",
+        "start_date": "2012-08-01",
+        "country_id": "13",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 369,
+        "price_per_liter": 527.14,
+        "alcohol": 0.45,
+        "apk": 0.85,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "10",
+                "name": "gin"
+            }],
+        "country": {
+            "id": "13",
+            "name": "Danmark"
+        },
+        "origin": null
+    }, {
+        "id": "51",
+        "article_id": "2",
+        "product_number": "102",
+        "name": "Renat",
+        "name_2": "",
+        "start_date": "1993-10-01",
+        "country_id": "10",
+        "origin_id": null,
+        "volume": 0.35,
+        "price": 111,
+        "price_per_liter": 317.14,
+        "alcohol": 0.38,
+        "apk": 1.18,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "10",
+            "name": "Internationellt m\u00e4rke"
+        },
+        "origin": null
+    }, {
+        "id": "52",
+        "article_id": "678323",
+        "product_number": "1020201",
+        "name": "Longmorn",
+        "name_2": "MacKillop's Choice",
+        "start_date": "2012-09-01",
+        "country_id": "5",
+        "origin_id": "3832783",
+        "volume": 0.7,
+        "price": 1280,
+        "price_per_liter": 1828.57,
+        "alcohol": 0.43,
+        "apk": 0.24,
+        "year": "1989",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "3832783",
+            "name": "Skottland, Highlands, Speyside"
+        }
+    }, {
+        "id": "53",
+        "article_id": "548667",
+        "product_number": "1020404",
+        "name": "Collection 3",
+        "name_2": "Peated",
+        "start_date": "2011-02-21",
+        "country_id": "5",
+        "origin_id": "4647994",
+        "volume": 0.6,
+        "price": 579,
+        "price_per_liter": 965,
+        "alcohol": 0.46,
+        "apk": 0.48,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "4647994",
+            "name": "England"
+        }
+    }, {
+        "id": "54",
+        "article_id": "405628",
+        "product_number": "1022301",
+        "name": "Altissima",
+        "name_2": "Vulgaris",
+        "start_date": "2009-11-16",
+        "country_id": "2",
+        "origin_id": null,
+        "volume": 0.5,
+        "price": 398,
+        "price_per_liter": 796,
+        "alcohol": 0.4,
+        "apk": 0.5,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "2",
+            "name": "Sverige"
+        },
+        "origin": null
+    }, {
+        "id": "55",
+        "article_id": "422685",
+        "product_number": "1023601",
+        "name": "Blanche de Montal",
+        "name_2": "",
+        "start_date": "2010-02-15",
+        "country_id": "1",
+        "origin_id": "7986874",
+        "volume": 0.7,
+        "price": 395,
+        "price_per_liter": 564.29,
+        "alcohol": 0.4,
+        "apk": 0.71,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "12",
+                "name": "brandy"
+            }],
+        "country": {
+            "id": "1",
+            "name": "Frankrike"
+        },
+        "origin": {
+            "id": "7986874",
+            "name": "Armagnac"
+        }
+    }, {
+        "id": "56",
+        "article_id": "195565",
+        "product_number": "1023901",
+        "name": "Tanqueray",
+        "name_2": "London Dry Gin",
+        "start_date": "2006-04-01",
+        "country_id": "5",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 279,
+        "price_per_liter": 398.57,
+        "alcohol": 0.43,
+        "apk": 1.08,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "10",
+                "name": "gin"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": null
+    }, {
+        "id": "58",
+        "article_id": "560340",
+        "product_number": "1024702",
+        "name": "Mortlach",
+        "name_2": "Cask 2310",
+        "start_date": "2011-05-02",
+        "country_id": "5",
+        "origin_id": "6891088",
+        "volume": 0.35,
+        "price": 583,
+        "price_per_liter": 1665.71,
+        "alcohol": 0.46,
+        "apk": 0.28,
+        "year": "1984",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "6891088",
+            "name": "Skottland, Highlands, Speyside"
+        }
+    }, {
+        "id": "59",
+        "article_id": "678924",
+        "product_number": "1025001",
+        "name": "Laphroaig",
+        "name_2": "MacKillop's Choice",
+        "start_date": "2012-09-01",
+        "country_id": "5",
+        "origin_id": "3971872",
+        "volume": 0.7,
+        "price": 1950,
+        "price_per_liter": 2785.71,
+        "alcohol": 0.52,
+        "apk": 0.19,
+        "year": "1990",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "3",
+                "name": "whisky"
+            }, {
+                "id": "4",
+                "name": "malt"
+            }],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "3971872",
+            "name": "Skottland, Islay"
+        }
+    }, {
+        "id": "60",
+        "article_id": "428738",
+        "product_number": "1026002",
+        "name": "Tement",
+        "name_2": "Tresterbrand Sauvignon Blanc Zieregg",
+        "start_date": "2010-03-15",
+        "country_id": "16",
+        "origin_id": null,
+        "volume": 0.35,
+        "price": 429,
+        "price_per_liter": 1225.71,
+        "alcohol": 0.48,
+        "apk": 0.39,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "16",
+            "name": "\u00d6sterrike"
+        },
+        "origin": null
+    }, {
+        "id": "61",
+        "article_id": "563070",
+        "product_number": "1027101",
+        "name": "Ballantine's",
+        "name_2": "17 Years",
+        "start_date": "2011-05-02",
+        "country_id": "5",
+        "origin_id": "4456113",
+        "volume": 0.7,
+        "price": 479,
+        "price_per_liter": 684.29,
+        "alcohol": 0.43,
+        "apk": 0.63,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [],
+        "country": {
+            "id": "5",
+            "name": "Storbritannien"
+        },
+        "origin": {
+            "id": "4456113",
+            "name": "Skottland"
+        }
+    }, {
+        "id": "62",
+        "article_id": "643947",
+        "product_number": "1027202",
+        "name": "Vit Hund",
+        "name_2": "",
+        "start_date": "2012-02-21",
+        "country_id": "2",
+        "origin_id": "5374009",
+        "volume": 0.5,
+        "price": 323,
+        "price_per_liter": 646,
+        "alcohol": 0.46,
+        "apk": 0.71,
+        "year": "0",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [{
+                "id": "2",
+                "name": "liquor"
+            }],
+        "country": {
+            "id": "2",
+            "name": "Sverige"
+        },
+        "origin": {
+            "id": "5374009",
+            "name": "G\u00e4vleborgs l\u00e4n, G\u00e4vle kommun"
+        }
+    }, {
+        "id": "63",
+        "article_id": "688160",
+        "product_number": "1029901",
+        "name": "Aalborg",
+        "name_2": "Jule Akvavit 2012",
+        "start_date": "2012-11-15",
+        "country_id": "13",
+        "origin_id": null,
+        "volume": 0.7,
+        "price": 299,
+        "price_per_liter": 427.14,
+        "alcohol": 0.47,
+        "apk": 1.1,
+        "year": "2012",
+        "ecological": false,
+        "koscher": false,
+        "deleted_at": null,
+        "tags": [],
+        "country": {
+            "id": "13",
+            "name": "Danmark"
+        },
+        "origin": null
+    }]
