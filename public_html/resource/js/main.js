@@ -362,6 +362,11 @@ app.helpers = {};
     return this.nullOrValue(this.alcoholTo);
   }
 
+  PriceHelper.prototype.getSearchKeyword = function(){
+    var val = $("input[name='search']").val();
+    return val;
+  }
+
   PriceHelper.prototype.nullOrValue = function(value){
     if(value === 0){
       return null;
@@ -438,6 +443,7 @@ app.helpers = {};
   }
 
   Application.prototype.getProductionOptions = function(){
+    
     return {
       "offset" : this.offset,
       "limit"  : this.limit,
@@ -445,8 +451,8 @@ app.helpers = {};
       "price_from" : this.priceHelper.getPriceFrom(),
       "price_to" : this.priceHelper.getPriceTo(),
       "alcohol_from" : this.priceHelper.getAlcoholFrom(),
-      "alcohol_to" : this.priceHelper.getAlcoholTo()
-      // "name" : 'xxx'
+      "alcohol_to" : this.priceHelper.getAlcoholTo(),
+      "name" : this.priceHelper.getSearchKeyword()
     };
   };
 
