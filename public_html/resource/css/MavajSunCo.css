@@ -1,8 +1,17 @@
 /* --------- GLOBAL STYLES ------------ */
 html,body {
-    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    font-family: "Arial";
+    font-size: 16px;
     height: 100%;
-    /*font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";*/
+    font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
+}
+
+.glyphicon {
+    
+   color: black;
+   font-size: small;
+   width: 20px;
 }
 /* ---------- Header Section ---------- */
 
@@ -13,17 +22,99 @@ html,body {
     width: 100%;
     background-color: #000;
 }
-.navbar{
-    margin-bottom: 0;
-    border-radius:0;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
-.navbar-default{
+li {
+    display: inline;
+    float: left;
+}
+nav a{
+    margin: 40px 0 0 45px;
+    display: block;
+    color: #fe9b00;
+    font-weight: 600;
 
+}
+nav a:hover{
+    direction: none;
+    color: #d2322d;
+    text-decoration: none;
+}
+
+.active{
+    color: #000;
+}
+#carsusel{
+    margin: 18px 0 18px 0;
+}
+#logo{
+    margin-top: 21px;    
+}
+
+
+#header-data{
+    margin-top: 18px;
+    color: #999898;
 }
 
 /* ---------- Body Section ---------- */
-.img-center {
-    margin: 0 auto;
+hr {
+    width: 100%; color: black; height: 6px; background-color:black;
 }
 
+#header-seperator{
+    width: 100%; color: #c0c0c0; height: 1px; background-color:#c0c0c0;
+}
+
+#blog-update{
+    margin-bottom: 45px;
+}
+#blog-update h4{
+    margin-bottom: 30px;
+}
+
+#connect-social{
+    margin-top: 35px;
+}
+
+#read-more{
+    color: #fe9b00;
+    font-weight: bolder;
+}
+
+#protfolio{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#protfolio-images{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
 /* ---------- Footer Section ---------- */
+footer{
+    background-color: #e2e2e2;  
+    height: 100px;
+    font-size: 16px;
+    color: #5d5d5d;
+}
+
+footer a{
+    color: #5d5d5d;
+}
+
+footer a:hover{
+    text-decoration: none;
+}
+
+#footer-logo{
+    width: 117px;
+    margin-top: 20px;
+}
+
+#footer-menu{
+    margin-top: 32px;
+}

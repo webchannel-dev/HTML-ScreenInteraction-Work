@@ -56,7 +56,7 @@
         <!-- Optional theme -->
         <link rel="stylesheet" href="resource/css/bootstrap-theme.min.css">
         <link href="resource/css/font-awesome.min.css" rel="stylesheet">
-        <!--link href='http://fonts.googleapis.com/css?family=Roboto:900,400' rel='stylesheet' type='text/css'-->
+        <link href='http://fonts.googleapis.com/css?family=Roboto:900,400' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="resource/css/MavajSunCo.css">
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -66,76 +66,84 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
         <script type="text/javascript" src="resource/js/MavajSunCo.js"></script>
-        <!--script type="text/javascript" src="resource/js/google-analytics.js"></script-->
+        <script type="text/javascript" src="resource/js/google-analytics.js"></script>
     </head>
     <body> 
         <div class="row bodyhead"></div>
 
         <div class="container"><!-- Body Container Section -->
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-4" id="logo">
                     <img src="resource/img/logo.png" />
                 </div>
-                <div class="col-lg-6">
-                    <p>info@CreativeStudio.com</p>
-                    <nav>
-                        <ul>
-                            <li><a href="#" class="active">HOME</a></li>
-                            <li><a href="#">ABOUT US</a></li>
-                            <li><a href="#">PORTFOLIO</a></li>
-                            <li><a href="#">SERVICES</a></li>
-                            <li><a href="#">BLOG</a></li>
-                            <li><a href="#">CONTACT US</a></li>
-                        </ul>
-                    </nav>
+                <div class="col-lg-8 pull-right" id="header-data">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <p class="pull-right">info@CreativeStudio.com</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <nav>
+                                <ul class="pull-right">
+                                    <li role="presentation" class="active"><a href="#" class="active">HOME</a></li>
+                                    <li><a href="#">ABOUT US</a></li>
+                                    <li><a href="#">PORTFOLIO</a></li>
+                                    <li><a href="#">SERVICES</a></li>
+                                    <li><a href="#">BLOG</a></li>
+                                    <li><a href="#">CONTACT US</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
                 </div>
             </div>
-
+            <hr id="header-seperator"/>
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12" id="carsusel">
                     <img src="resource/img/carousel/carousel.png" width="100%"/>
                 </div>
             </div>
-
+            <hr id="header-seperator"/>
             <div class="row">
                 <div class="col-lg-4">
-                    <h4>ABOUT US</h4>
-                    <hr/>
+                    <h3><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> ABOUT US</h3>
+                    <hr size="36"/>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis nulla id orci malesuada porta posuere quis massa. Nunc vitae purus non augue scelerisque ultricies vitae et velit. Sed vitae lectus id sem lobortis scelerisque. Praesent eget consequat libero. </p>
-                    <a href="#"><p>READ</p></a>
+                    <a href="#" id="read-more"><p><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> READ</p></a>
 
                 </div>
                 <div class="col-lg-4">
-                    <h4>OUR BENEFITS</h4>
+                    <h3><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> OUR BENEFITS</h3>
                     <hr/>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis nulla id orci malesuada porta posuere quis massa. 
+                        <span class="glyphicon glyphicon-check" aria-hidden="true"></span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis nulla id orci malesuada porta posuere quis massa. 
                     </p>
                     <p>
-                        Nunc vitae purus non augue scelerisque ultricies vitae et velit. Sed vitae lectus id sem lobortis scelerisque. Praesent eget consequat
+                        <span class="glyphicon glyphicon-check" aria-hidden="true"></span> Nunc vitae purus non augue scelerisque ultricies vitae et velit. Sed vitae lectus id sem lobortis scelerisque. Praesent eget consequat
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis nulla id orci malesuada porta posuere quis massa. 
+                        <span class="glyphicon glyphicon-check" aria-hidden="true"></span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis nulla id orci malesuada porta posuere quis massa. 
                     </p>
 
                 </div>
                 <div class="col-lg-4">
-                    <h4>TESTIMONIALS</h4>
+                    <h3><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> TESTIMONIALS</h3>
                     <hr/>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis nulla id orci malesuada porta posuere quis massa. Nunc vitae purus non augue scelerisque ultricies vitae et velit. Sed vitae lectus id sem lobortis scelerisque. 
                         <br>  <br>
-                        Santa, North Pole
+                        <b>Santa, North Pole</b>
                     </p>
                 </div>
             </div>
-
+            <hr id="header-seperator"/>
             <div class="row">
                 <div class="col-lg-12">
-                    <h4>OUR PORTFOLIO</h4>
+                    <h3 id="protfolio"><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> OUR PORTFOLIO</h3>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" id="protfolio-images">
 
                 <div class="col-lg-3">
                     <img src="resource/img/content/Sample-01.png" width="100%"/>
@@ -150,28 +158,29 @@
                     <img src="resource/img/content/Sample-04.png" width="100%"/>
                 </div>
             </div>
-
+            <hr id="header-seperator"/>
             <div class="row">
-                <div class="col-lg-9">
-                    <h4>BLOG UPDATES</h4>
+                <div class="col-lg-9" id="blog-update">
+                    <h4><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> BLOG UPDATES</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis nulla id orci malesuada porta posuere quis massa. Nunc vitae purus non augue scelerisque ultricies vitae et velit. Sed vitae lectus id sem lobortis scelerisque. Praesent eget consequat libero. </p>
                 </div>
-                <div class="col-lg-3">
-                    <h4>CONNECT WITH US</h4>
-                    <div class="row">
-                        <div class="col-lg-3"><a href="#"><img src="resource/img/twitter-icon.png"></a></div>
-                        <div class="col-lg-3"><a href="#"><img src="resource/img/fb-icon.png"></a></div>
-                        <div class="col-lg-3"><a href="#"><img src="resource/img/flicker-icon.png"></a></div>
-                        <div class="col-lg-3"><a href="#"><img src="resource/img/rss-icon.png"></a></div>
+                <div class="col-lg-3" >
+                    <h4><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> CONNECT WITH US</h4>
+                    <div class="row" id="connect-social">
+                        <div class="col-lg-2"><a href="#"><img src="resource/img/twitter-icon.png"></a></div>
+                        <div class="col-lg-2"><a href="#"><img src="resource/img/fb-icon.png"></a></div>
+                        <div class="col-lg-2"><a href="#"><img src="resource/img/flicker-icon.png"></a></div>
+                        <div class="col-lg-2"><a href="#"><img src="resource/img/rss-icon.png"></a></div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container"><!-- Footer Container Section -->
-            <div class="row">
-                <div class="col-lg-8">
-                    <footer><!-- FOOTER -->
-                        <div class="row">
+        <footer><!-- FOOTER --> 
+            <div class="container" ><!-- Footer Container Section -->
+                <div class="row" >
+                    <div class="col-lg-8" >
+
+                        <div class="row" >
                             <!-- Footer menu Section -->
                             <div class="col-lg-12" id="footer-menu">
                                 <a href="privacy-policy.php">Home</a> |
@@ -188,13 +197,14 @@
                                 <p id="copyright">© 2010 CreativeStudio. All Rights Reserved</p>
                             </div><!-- Copyright Section End-->
                         </div> 
-                    </footer><!-- FOOTER end -->
-                </div>
-                <div class="col-lg-4">
-                    <img src="resource/img/logo.png"/>
-                </div>
-            </div> 
-        </div>
+
+                    </div>
+                    <div class="col-lg-4">
+                        <img src="resource/img/logo.png" id="footer-logo" class="pull-right"/>
+                    </div>
+                </div> 
+            </div>
+        </footer><!-- FOOTER end -->
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="resource/js/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
