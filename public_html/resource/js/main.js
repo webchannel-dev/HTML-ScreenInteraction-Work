@@ -165,7 +165,7 @@ app.services.productService = new screeninteraction.services.ProductService();
     var alcohol = 0;
     if(this.alcohol)
       alcohol = this.alcohol;
-    return  parseFloat(alcohol*100).toFixed(1);
+    return  parseFloat(alcohol*100).toFixed(1);// Code has been Fixed , the percentage with one decimal which was showing wrong .
   }
 
   /**
@@ -362,7 +362,7 @@ app.helpers = {};
     return this.nullOrValue(this.alcoholTo);
   }
 
-  PriceHelper.prototype.getSearchKeyword = function(){
+  PriceHelper.prototype.getSearchKeyword = function(){  // This method will retrieve the name from textfeild on search.html and use it as parameter for search result.
     var val = $("input[name='search']").val();
     return val;
   }
@@ -452,7 +452,7 @@ app.helpers = {};
       "price_to" : this.priceHelper.getPriceTo(),
       "alcohol_from" : this.priceHelper.getAlcoholFrom(),
       "alcohol_to" : this.priceHelper.getAlcoholTo(),
-      "name" : this.priceHelper.getSearchKeyword()
+      "name" : this.priceHelper.getSearchKeyword()   //In this line added name variable - to be able sent this argument in get request, added this.priceHelper.getSearchKeyword() - function to retrieve typed value from search input
     };
   };
 
