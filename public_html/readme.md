@@ -17,4 +17,4 @@ This worksample will go through 3 different steps.
 4. ZIP the project together with your solution documents into one file. Give the file your name.
 5. Send your answer to the person who invited you via email.
 
-Best of luck, **Screen Interaction**
+Best of luck, 
